@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MelonKami</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate young developer from Norway</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melonkami&label=Profile%20views&color=0e75b6&style=flat" alt="melonkami" /> </p>
 
