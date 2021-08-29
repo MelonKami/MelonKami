@@ -3,8 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melonkami&label=Profile%20views&color=0e75b6&style=flat" alt="melonkami" /> </p>
 
 <h1 align="left">My experiences </h1>
-  
-I have experience with SSH, Remote Desktop Connection, Server development (FiveM server, BeaMMP, Flask, JS server), JS, Python, LUA (little), Discord bots (written in python), API's, processing API data for usage (for example server information), HTML & CSS, Flask (python web server)
 
 Hit me up on mail (marius.berg.lindegaard@gmail.com) or discord (MelonKami#6089) if you want me to show you my most impressive projects (they are in private repos)
 
